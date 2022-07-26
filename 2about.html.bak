@@ -1,0 +1,117 @@
+<html>
+   <head>        
+   <meta charset="utf-8" />        
+   <link rel="stylesheet" href="style1.css" />        
+   <title>auto cars</title>    
+   </head>
+ 
+ <body> 
+
+ <h1><img src="carbanner.png" class="voiture" alt="carbanner"></h1>
+
+<div>
+<p> 
+ 
+   <a href="1Home.html">Home</a>
+    <a href="2about.html">About us</a>
+   <a href="3service.html">Our services</a>
+    <a href="4contact.html">Contact us</a>
+
+</p>
+</div>
+<br>
+<br> 
+<h1>COMPANY PROFILE<h1>
+<table style="margin-left: auto; margin-right: auto">  
+
+ <thead>       
+
+ 
+   <tbody> 
+   
+    </tr>  
+   <tr>       
+   <th>Company name</th>
+   <td>Auto sprint cars Uganda ltd</td>    
+       
+   </tr>
+        
+   <tr>     
+   <th>Established</th> 
+   <td>1/10/2021</td>        
+   
+   </tr>  
+   <tr>       
+   <th>President</th>
+   <td>KUSIIMA MARK(CEO)</td>    
+       
+   </tr>    
+
+   <tr>     
+   <th>Address</th>  
+   <td> Plot 54 NAKAWA INDUSTRIAL AREA</td>     
+      
+   </tr>  
+   <tr>    
+   <th>Phone</th>    
+   <td>+256 780 355357</td>     
+      
+   </tr>      
+   <tr>         
+   <th>Fax</th> 
+   <td>+81 25 211 3264</td>
+   
+   <tr>    
+   <th>Email</th>    
+   <td><a id="mail" href="http://www.gmail.com">info@autosprintcarsugandaltd.ug</a></td>     
+       
+   </tr>   
+   <tr>    
+   <th>Skype name</th>    
+   <td>Autosprintcars.co.ltd</td>     
+       
+   </tr>     
+   </tr> 
+   </tbody> 
+   </table>
+   
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   
+   <h1>STAFF<h1>
+    <br>
+   
+   
+   <p class="max"><img src="pato.jpg" class="boy" alt="CEO" align="left" />
+CEO<br><br>KUSIIMA MARK<br><br>Language: English,Swahili<br>
+E-mail: kusiimamark@gmail.com<br>Office: +256780355357<br>Mobile: +256780355357
+</p>
+<br>
+<p class="max"><img src="pato.jpg" class="boy" alt="CEO" align="left" />
+Sales Staff<br><br>AYEBALE PATRICK<br><br>Language: English,Swahili<br>
+E-mail: ayebalep33@gmail.com<br>Office: +256780355357<br>Mobile: +256780355357
+</p>
+<br>
+<p class="max"><img src="pajos.jpg" class="boy" alt="CEO" align="left" />
+Sales Assistant<br><br>RUBANGAKENE PETER<br><br>Language: English,Swahili<br>
+E-mail: petertosh@gmail.com<br>Office: +256780355357<br>Mobile: +256780355357
+</p>
+<br>
+<p class="max"><img src="pajos.jpg" class="boy" alt="CEO" align="left" />
+Accountant<br><br>NANYONJO RACHEAL MUSISI<br><br>Language: English,Swahili<br>
+E-mail: rachealmusisi@gmail.com<br>Office:+256780355357<br>Mobile: +256780355357
+</p>
+<br>
+<p class="max"><img src="pajos.jpg" class="boy" alt="CEO" align="left" />
+Shipping<br><br>NISHIMWE PATRICK<br><br>Language: English,Swahili<br>
+E-mail: patrickpajos@gmail.com<br>Office:+256780355357<br>Mobile: +256780355357
+</p>
+
+ </body>
+ 
+
+ </html>

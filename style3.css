@@ -1,0 +1,73 @@
+a 
+{ 
+ font-family: Cooper Black;
+ display: inline;
+ margin-right: 150px;
+ padding-right: 20px;
+ font-size: 150%; 
+ text-decoration: none;
+ padding: 50px;
+ width: 200%; 
+  margin: 50px;
+ 
+}
+
+body
+{
+	font-family: Gill Sans MT Condensed;
+	 background-image: url("C:/Users/student/Desktop/Emason Demo site/New site/img/new.webp");
+	 background-size: cover; 
+	 background-repeat: no-repeat;
+}
+
+p
+{
+	color: black;
+	
+}
+
+
+img
+{
+	 width: 1344px;  
+	 height: 150px;
+
+}
+
+
+
+
+
+
+.head2{
+background-color: gold;
+padding: 20px;
+border-radius: 20px;
+
+
+
+
+}
+
+.foot1{
+	background-color: gold;
+	display: flex;
+	font-family: Impact Black;
+	
+	
+	
+	
+}
+.ppp{
+	box-sizing: border-box;
+	border: 1px solid;
+	margin: 20px;
+	width: 420px;
+	border-radius: 10px;
+	background-image: url("C:/Users/student/Desktop/Emason Demo site/New site/img/grad3.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	border-radius: 10px;
+	text-align: center;
+	
+}

@@ -1,0 +1,130 @@
+a 
+{ 
+ font-family: Cooper Black;
+ display: inline;
+ margin-right: 150px;
+ padding-right: 20px;
+ font-size: 150%; 
+ text-decoration: none;
+ padding: 50px;
+ width: 200%; 
+  margin: 50px;
+}
+
+body
+{
+	background-image: url("C:/Users/student/Desktop/Emason Demo site/New site/img/grad6.jpg");
+	background-repeat: repeat;
+	background-size: contain;
+	
+}
+
+
+
+
+h1
+{
+	text-align: center;
+	font-family: Gill Sans MT Condensed;
+	font-size: 170%;
+	font-weight: bold;
+	color: red;
+	letter-spacing: 0.9em;
+	
+}
+
+table
+ { width: 1000px;
+   
+ } 
+ th, td {
+	 padding: 7px 10px;}
+	 th, td { 
+	 font-family: Gill Sans MT Condensed;
+	 text-transform: none; 
+	 letter-spacing: 0.1em; 
+	 font-size: 150%;
+	 border-bottom: 3px solid #111111;
+	 border-top: 3px solid #999; 
+	 text-align: left;
+	 }
+	 
+	
+	
+.head{
+	background-color: gold;
+height: 100px;
+letter-spacing: -0.02em;
+margin: 35px;
+padding: 50px;
+
+}
+
+#mail{
+	
+	 font-family: Gill Sans MT Condensed;
+	 font-size: 100%;
+	 padding: 7px 10px;
+	  border-bottom: 3px solid #111111;
+	 border-top: 3px solid #999;
+	 text-transform: none; 
+	 letter-spacing: 0.1em;
+	  text-align: left;
+}
+
+.boy{
+	border-radius: 10px;
+	display: inline;
+	height: 100px;
+letter-spacing: -0.02em;
+margin: 35px;
+padding: 50px;
+}
+
+
+img.boy{
+	width: 150px;
+	height: 150px;
+	
+}
+
+
+ .max{
+	align-content: center;
+	color: black;
+	font-size: 60%;
+	text-align: left;
+	letter-spacing: 0.05em;
+	padding: 25px; 
+ }
+
+.prof{
+	border-radius: 5px;
+	
+}
+
+.text1{
+	font-style: italic;
+	color: #111111;
+}
+.timo{
+	border-radius: 7px;
+}
+.timo1{
+	font-style: italic;
+	color: #111111;
+}
+
+.mark{
+	border-radius: 7px;
+	width: 600px;
+	height: 400px;
+}
+.mark1{
+	font-style: italic;
+	color: #111111;
+}
+
+.emma{
+	border-radius: 6px;
+}

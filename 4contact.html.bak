@@ -1,0 +1,88 @@
+<html>
+   <head>        
+   <meta charset="utf-8" />        
+   <link rel="stylesheet" href="style3.css" />        
+   <title>auto cars</title>    
+   </head>
+ 
+ <body> 
+
+ <h1><img src="carbanner.png" class="voiture" alt="carbanner"></h1>
+<div>
+
+ 
+ 
+   <a href="1Home.html">Home</a>
+    <a href="2about.html">About us</a>
+   <a href="3service.html">Our services</a>
+    <a href="4contact.html">Contact us</a>
+
+</div>
+   <br>
+   <br>
+   <br>
+   
+<p>
+<form action="http://www.example.com/login.php">
+ <p class= "ppp">Name   :  
+ <input type="text" name="name" size="15"    maxlength="30" /> 
+ </p> 
+ </form>
+ 
+ <form action="http://www.example.com/login.php">
+ <p class= "ppp">Adress :  
+ <input type="text" name="adress" size="15"    maxlength="30" /> 
+ </p> 
+ </form>
+ 
+ <form action="http://www.example.com/login.php">
+ <p class= "ppp">Country:  
+ <input type="text" name="country" size="15"    maxlength="30" /> 
+ </p> 
+ </form>
+ 
+ <form action="http://www.example.com/login.php">
+<p class= "ppp">Tel      :  
+ <input type="text" name="tel" size="15"    maxlength="30" /> 
+ </p> 
+ </form>
+ 
+ <form action="http://www.example.com/login.php">
+ <p class= "ppp">E-mail:  
+ <input type="text" name="email" size="15"    maxlength="30" /> 
+ </p> 
+ </form>
+    <br>
+   <br>
+   <form method="post" action="traitement.php"> 
+  <p class= "ppp">    
+   <label for="text">       Text us      
+   
+   </label>  
+  </br>
+   </p>
+<textarea name="message" id="message" rows="10" cols="50">   
+  type your message here ....
+	  </textarea>       
+
+	<p class= "ppp"><form>
+	  
+	   <input type="checkbox" name="robot" class="robot"  /> <label for="robot" color= "white">I am not a robot</label>   </p> </form>
+
+
+<p class= "ppp">
+ <input type="submit" value="send message" />
+ 
+ </p>
+ <br>
+  <br>
+   <br>
+
+ <h1> contact us on: </h1>
+ <h2>Tel: +81 6465 63673</h2>
+  <h2>E-mail:<a id="gnail" href="http://www.gmail.com" href="http://www.gmail.com">info.autosprintcarugandaltd.ug</a></h2>
+ <h2>Whatsapp: +256 78 0355357</h2>
+
+
+ </body>
+ </html>

@@ -1,0 +1,87 @@
+a 
+{ 
+ font-family: Cooper Black;
+ display: inline;
+ margin-right: 150px;
+ padding-right: 20px;
+ font-size: 150%; 
+ text-decoration: none;
+ padding: 50px;
+ width: 200%; 
+  margin: 50px;
+}
+
+body
+{
+	 
+	background-image: url("C:/Users/student/Desktop/Emason Demo site/New site/img/index 2.webp");
+	background-repeat: round;
+	background-attachment: fixed;
+	
+}
+
+
+
+.img
+{
+	 width: 1344px;  
+	 height: 150px;
+	 text-align: center;
+	 border-radius: 5px;
+
+}
+
+img.boy{
+	
+	width: 150px;
+	height: 150px;
+	
+	}
+.fa{
+	background-color: gold;
+height: 100px;
+
+
+}
+
+.class{
+	box-sizing: border-box;
+	border: 1px solid;
+}
+
+.head1{
+	background-color: gold;
+}
+
+.voiture{
+	text-align: center;
+	border-radius: 10px;
+}
+
+.form{
+	box-sizing: border-box;
+	border: 1px solid;
+	width: 350px;
+	margin: 20px;
+	padding: 10px;
+	background-image: url("C:/Users/student/Desktop/Emason Demo site/New site/img/grad6.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	border-radius: 10px;
+
+}
+
+.ppp{
+	
+	box-sizing: border-box;
+	border: 1px solid;
+	width: 500px;
+	margin: 30px;
+	padding: 20px;
+	background-image: url("C:/Users/student/Desktop/Emason Demo site/New site/img/grad3.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	border-radius: 10px;
+	margin-right: 25px;
+	
+}

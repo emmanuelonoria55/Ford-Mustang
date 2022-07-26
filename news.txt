@@ -1,0 +1,30 @@
+<html>
+   <head>        
+   <meta charset="utf-8" />        
+   <link rel="stylesheet" href="style2.css" />        
+   <title>auto cars</title>    
+   </head>
+ 
+ <body> 
+
+
+
+<div>
+
+<p> 
+ 
+   <a href="1Home.html">Home</a>
+    <a href="2about.html">About us</a>
+   <a href="3service.html">Our services</a>
+    <a href="4contact.html">Contact us</a>
+	<a href="News.html">News</a>
+
+</p>
+<p>
+We dring you the best cars in the model 2022,both automatic and manual cars,from different countries
+</p>
+ <p> Just keep awaiting for the new release and please place your order as sson as possible to avoid inconviniences<>
+ 
+ 
+ </body>
+ </html>

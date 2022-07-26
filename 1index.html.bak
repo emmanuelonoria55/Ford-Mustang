@@ -1,0 +1,68 @@
+<html>
+   <head>        
+   <meta charset="utf-8" />        
+   <link rel="stylesheet" href="style.css" />        
+   <title>Home</title>    
+   </head>
+ <p>
+		<marquee  style="color:purple">
+		 <b>FORD MOTOR CAMPANY UGANDA.SERVING YOU HONESTLY AND PROFESSIONALLY<b></marquee></p>
+		</section>
+		</main>
+ <body> 
+
+
+ <h1><img src="desktop/pato.jpg" alt="image"></h1>
+
+<div>
+
+<p> 
+ 
+   <a href="1Home.html">Home</a>
+    <a href="2about.html">About us</a>
+   <a href="3service.html">Our services</a>
+    <a href="4contact.html">Contact us</a>
+	<a href="News.html">News</a>
+
+</p>
+</div> 
+
+
+
+ </body>
+<p id="text"><img src="ford1.jpg" id="car" class="car" alt="dp" align="left">Ford Motor Compnay HISTORY<br><br>
+Henry Ford was an engineer from Detroit, Michigan who <br>
+had an idea. By 1902, Ford had  attempted several times to<br> 
+produce a gas powered vehicle, but with little capital, he<br> 
+realized that his attempts were futile.  Ford approached a man<br> 
+by the name of Alexander T. Malcomson about the possibility<br> 
+of manufacturing an automobile.  Malcomson, a friend of the <br>
+family and wealthy coal merchant was reluctant at first but<br>
+finally agreed with Ford, and decided to assit Ford financially<br>
+with his endeavor.  With Malcomsons investment and Ford's <br>
+engineering skills a partnership was formed and in mid June <br>
+of 1903, papers of incorporation for the Ford Motor Company <br>
+were filed in Dearborn, Michigan.
+ </p>
+ <br><br>
+ <aside>
+<h1>What we do ...we sell first class cars across the country,we also buy used cars and giveout cars on loans.</h1>
+<p we sell first class cars across the country,we also buy used cars and giveout cars on loans.</p>
+</aside>
+<br><br><br>
+
+<br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+ <footer>
+<p> 
+ 
+   <a href="1index.html">Home</a>
+    <a href="2about.html">About us</a>
+   <a href="3service.html">Our services</a>
+    <a href="4contact.html">Contact us</a>
+
+</p> 
+</footer>
+ </html>
+ 
+
